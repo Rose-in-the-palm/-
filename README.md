@@ -8,3 +8,4 @@ x2: 刹车盘外径
 x3: 啮合力
 x4: 摩擦面数，由摩擦片与对偶片构成的摩擦面的数目
 目标函数：
+!(https://github.com/Rose-in-the-palm/ScreenShots/blob/main/ScreenShots/%E5%A4%9A%E7%9B%98%E5%88%B9%E8%BD%A6%E7%9B%AE%E6%A0%87%E5%87%BD%E6%95%B0.PNG?raw=true)
