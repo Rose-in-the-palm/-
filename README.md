@@ -8,5 +8,4 @@ x2: 刹车盘外径
 x3: 啮合力
 x4: 摩擦面数，由摩擦片与对偶片构成的摩擦面的数目
 目标函数：
-[Image text]!
-(https://github.com/Rose-in-the-palm/ScreenShots/blob/main/ScreenShots/%Multi-disc brakes.PNG?raw=true)
+![image](https://github.com/Rose-in-the-palm/ScreenShots/blob/main/ScreenShots/%Multi-disc brakes.PNG)
